@@ -15,7 +15,7 @@ import (
 	"github.com/pritunl/pritunl-zero/requires"
 	"github.com/pritunl/pritunl-zero/settings"
 	"github.com/sirupsen/logrus"
-	elastic "gopkg.in/olivere/elastic.v7"
+	elastic "github.com/olivere/elastic/v7"
 )
 
 var (
